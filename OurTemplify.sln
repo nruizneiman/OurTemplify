@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OurTemplify", "OurTemplify\OurTemplify.csproj", "{37140F21-92A0-4D09-AECA-080C67BBD7A5}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{9E48E126-098C-4893-9DBD-976097B6B0AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37140F21-92A0-4D09-AECA-080C67BBD7A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37140F21-92A0-4D09-AECA-080C67BBD7A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37140F21-92A0-4D09-AECA-080C67BBD7A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37140F21-92A0-4D09-AECA-080C67BBD7A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E48E126-098C-4893-9DBD-976097B6B0AD}.Debug|Any CPU.ActiveCfg = Debug
+		{9E48E126-098C-4893-9DBD-976097B6B0AD}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {397729AA-F054-4A7D-8183-4B7EDA3812E3}
+	EndGlobalSection
+EndGlobal
